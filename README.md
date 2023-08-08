@@ -6,9 +6,15 @@
 [![Blog](https://img.shields.io/website?label=Curriculum_Vitae&style=for-the-badge&url=https://siquette.github.io/cv/)](https://siquette.github.io/cv/)
 
 <div>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siquette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siquette&hide_progress=true&langs_count=16&theme=tokyonight"/>
 </div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{siquette}/count.svg" /></p> 
+<br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
