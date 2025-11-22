@@ -19,8 +19,8 @@
 <p></p>
 
 <div align="center" >  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siquette&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siquette&hide_progress=true&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siquette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siquette&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=10"/>
 </div>
 
 <p></p>
@@ -33,7 +33,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{siquette}/count.svg" /></p> 
 <br></div>
 
