@@ -31,13 +31,20 @@
   <img src="https://s11.gifyu.com/images/ScZIA.gif"> 
 </div>
 
+<div align="center">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+  </picture>
+  <br>
+</div>
+
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{siquette}/count.svg" /></p> 
+<br>
+  <img src="https://komarev.com/ghpvc/?username=siquette&label=PROFILE+VIEWS&style=for-the-badge&color=00bfbf" alt="siquette" /> 
 <br></div>
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
